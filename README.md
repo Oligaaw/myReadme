@@ -42,3 +42,11 @@ This is a footnote<sup>[1](https://google.se)</sup>
 
 ### Striketrough
 ~~Strike~~
+
+### Table
+
+| Fruit | Color |
+| --- | --- |
+| Banana | Yellow |
+| Apple | Red |
+| Kiwi | Green | 
