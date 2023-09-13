@@ -5,6 +5,7 @@
 - Item 2
 - Item 3
 
+### Definition list
 <dl>
 <dt>mkdir</dt>
 <dd>Create new directory</dd>
@@ -26,4 +27,6 @@
 - [ ] To do
 - [x] To do
 
-### 
+### Footnotes
+
+This is a footnote[1](www.google.se)
