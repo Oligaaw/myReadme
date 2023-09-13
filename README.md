@@ -27,6 +27,9 @@
 - [ ] To do
 - [x] To do
 
+### Links
+[Google](www.google.se) is my favorite search engine
+
 ### Footnotes
 
 This is a footnote[1](www.google.se)
