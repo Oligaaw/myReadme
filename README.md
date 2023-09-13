@@ -1,12 +1,10 @@
 # My readme
-
+#
 ### Unordered list
 Mkdir
 : Create new directory
-Pwd
-: Print working directory
-Ls
-: List all directories
+
+
 
 ### Ordered list
 1. cd: Change directory
