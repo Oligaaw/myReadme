@@ -19,8 +19,8 @@
 1. Item 1
 2. Item 2
 3. Item 3
-	1. Nested item 1
-	2. Nested item 2
+ * Nested item 1
+ * Nested item 2
 4. Item 4
 
 ### Ordered list
