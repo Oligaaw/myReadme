@@ -1,9 +1,12 @@
 # My readme
 
 ### Unordered list
-- mkdir: Create new directory
-- pwd: Print working directory
-- ls: List all directories
+- mkdir:
+ Create new directory
+- pwd:
+ Print working directory
+- ls:
+ List all directories
 
 ### Ordered list
 1. cd: Change directory
@@ -14,3 +17,5 @@
 ### Checkboxes
 - [ ] To do
 - [x] To do
+
+### 
