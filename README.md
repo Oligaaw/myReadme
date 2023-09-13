@@ -39,3 +39,6 @@
 ### Footnotes
 
 This is a footnote<sup>[1](https://google.se)</sup>
+
+### Striketrough
+~~Strike~~
