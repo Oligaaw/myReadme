@@ -1,8 +1,18 @@
 # My readme
 #
 ### Unordered list
-Mkdir
-: Create new directory
+- Item 1
+- Item 2
+- Item 3
+
+<dl>
+<dt>mkdir</dt>
+<dd>Create new directory</dd>
+<dt>pwd</dt>
+<dd>Print working directory</dd>
+<dt>ls</dt>
+<dd>Show directories</dd>
+</dl>
 
 
 
