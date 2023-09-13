@@ -1,5 +1,6 @@
-# My readme
 #
+# My readme
+
 ### Unordered list
 - Item 1
 - Item 2
@@ -77,6 +78,12 @@ Go to [Top](#My-readme)
 
 ---
 
+### Code blocks
+
+	<html>
+	    <head>
+	    </head>
+	</html>
 
 
 
