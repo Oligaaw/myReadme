@@ -94,4 +94,4 @@ Go to [Top](#My-readme)
 
 ### Image 
 
-![En text](/users/oliviagawelek/doucments/IMG-20220522-WA0002.jpg"En titel")
+![En text](IMG-20220522-WA0002.jpg"En titel")
