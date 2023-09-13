@@ -28,8 +28,8 @@
 - [x] To do
 
 ### Links
-[Google](www.google.se) is my favorite search engine
+[Google](https://google.se) is my favorite search engine
 
 ### Footnotes
 
-This is a footnote<sup>[1](www.google.se)</sup>
+This is a footnote<sup>[1](https://google.se)</sup>
