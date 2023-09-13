@@ -1,11 +1,11 @@
 # My readme
 
 ### Unordered list
-mkdir
+Mkdir
 : Create new directory
-pwd
+Pwd
 : Print working directory
-ls
+Ls
 : List all directories
 
 ### Ordered list
