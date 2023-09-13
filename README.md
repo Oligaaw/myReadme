@@ -32,4 +32,4 @@
 
 ### Footnotes
 
-This is a footnote[1](www.google.se)
+This is a footnote<sup>[1](www.google.se)</sup>
