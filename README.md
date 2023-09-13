@@ -53,4 +53,16 @@ This is a footnote<sup>[1](https://google.se)</sup>
 
 ### Inline code 
 
-Use `mkdir` to create new directory 
+Use `mkdir` to create new directory
+
+
+### Link in document
+
+Go to [Top](#My-readme)
+
+
+
+
+
+
+ 
