@@ -49,4 +49,8 @@ This is a footnote<sup>[1](https://google.se)</sup>
 | --- | --- |
 | Banana | Yellow |
 | Apple | Red |
-| Kiwi | Green | 
+| Kiwi | Green |
+
+### Inline code 
+
+Use `mkdir` to create new directory 
